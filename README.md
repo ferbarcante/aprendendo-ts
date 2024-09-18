@@ -1,3 +1,5 @@
+![Banner Aquecimento Black Friday Azul e Preto Moderno](https://github.com/user-attachments/assets/7a8d1d33-b368-4455-ba0a-2a7f09edc1c1)
+
 # Por que aprender?
 ## Meus motivos para aprender JavaScript 
 - Conseguir implementar lógicas e programas na web para usuários interagirem
